@@ -1,3 +1,7 @@
+Bienvenido a mis experimentos con Claude + SDK Extensions 1.0 para la beta de Ableton Live Suite 12.4.5 
+
+Acá iré presentando mis hallagos via vibe coding con Claude y otras herramientas.
+
 Mi primera extensión: 
 
 Chord writer 1.0 
