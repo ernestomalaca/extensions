@@ -14,7 +14,6 @@ Te permite escribir acordes y creará en la vista de sesión con el nombre de lo
 ## Nes Emulator 1.0 
 https://github.com/ernestomalaca/extensions/blob/main/NES-Emulator-1.0.0.ablx
 
-
 https://github.com/user-attachments/assets/f17a49d9-fd70-4389-aa46-caf051a6a9a5
 
 Mi primer emulador de Nintendo NES
@@ -26,11 +25,11 @@ Por problemas de implementación del sdk el audio está desactivado por defecto,
 
 
 ## Skifree.js 
-
+https://github.com/ernestomalaca/extensions/blob/main/SkiFree-1.0.0.ablx
 
 https://github.com/user-attachments/assets/328c9664-fe7a-471c-bb3e-f960a5de1b08
 
 
-el clásico juego de windows 3.11 recreado por el increíble Dan hough )https://danhough.com/blog/skifree-js/) portado a extensión.
+El clásico juego de Micro$oft Window$ 3.11 recreado por el increíble Dan hough (https://danhough.com/blog/skifree-js/) portado a extensión.
 
 
